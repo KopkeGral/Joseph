@@ -1,0 +1,5 @@
+Eğer pythonu ilk defa yüklediyseniz packages.py dosyasını çalıştırınız.
+
+Joseph 0.7.2 BETA (Windows uyumlu)
+
+Başlatmak için Joseph.py dosyasını çalıştırın
